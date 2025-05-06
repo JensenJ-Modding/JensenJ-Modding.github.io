@@ -3,7 +3,7 @@ import youshallnottick from "../sidebars/youshallnottick.ts";
 
 export default defineConfig({
 	title: "JensenJ Modding Wiki",
-	description: "A wiki for our my mods",
+	description: "A wiki for my mods",
 	cleanUrls: true,
 	lastUpdated: true,
 

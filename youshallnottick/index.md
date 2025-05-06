@@ -1,5 +1,7 @@
 # You Shall Not Tick
 
+![You Shall Not Tick Logo](/youshallnottick.webp)
+
 You Shall Not Tick is a simple mod to reduce unneccessary processing of living entities in Minecraft.
 
 You can refer to the sidebar for more information.
