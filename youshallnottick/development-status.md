@@ -1,14 +1,14 @@
 # Development Status
 
-This page shows the various mod versions and version of Minecraft we support.
+This page shows the various mod versions and versions of Minecraft we support.
 
 ## Supported Game Versions
 
 For each game version, I will aim to support:
 
 -   The most recent release (e.g. 1.21.5).
--   The main modding version of the current Minecraft version (e.g. 1.21.1).
--   The main modding version of the last Minecraft version (e.g. 1.20.1).
+-   The main modding version of the current major Minecraft version (e.g. 1.21.1).
+-   The main modding version of the last major Minecraft version (e.g. 1.20.1).
 
 #### Mod loaders
 
@@ -21,13 +21,13 @@ Feel free to ask any questions about this on the Discord.
 
 ## Mod Development Status
 
-| Version         | Status               |
-| --------------- | -------------------- |
-| 1.21.5          | Awaiting 1.21.1 Port |
-| 1.21.2 - 1.21.4 | Skipped              |
-| 1.21.1          | In Development       |
-| 1.20.2 - 1.21.0 | Skipped              |
-| 1.20.1          | Continued Support    |
+| Version         | Status            |
+| --------------- | ----------------- |
+| 1.21.6          | In Development    |
+| 1.21.2 - 1.21.5 | Skipped           |
+| 1.21.1          | Continued Support |
+| 1.20.2 - 1.21.0 | Skipped           |
+| 1.20.1          | Continued Support |
 
 ## Porting to other versions / modloaders
 
