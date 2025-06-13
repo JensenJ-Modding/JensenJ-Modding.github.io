@@ -1,5 +1,6 @@
 import { defineConfig } from "vitepress";
 import youshallnottick from "../sidebars/youshallnottick.ts";
+import youshallnotpatrol from "../sidebars/youshallnotpatrol.ts";
 
 export default defineConfig({
 	title: "JensenJ Modding Wiki",
@@ -20,6 +21,7 @@ export default defineConfig({
 
 		sidebar: {
 			...youshallnottick,
+			...youshallnotpatrol
 		},
 
 		socialLinks: [

@@ -2,9 +2,9 @@
 
 You Shall Not Tick only makes use of a server side configuration file.
 
-On Forge, this can be located within the `world/serverconfig` directory.
+On Forge/NeoForge, this can be located within the `world/serverconfig` directory.
 
-On Fabric, this is just within your `config` directory.
+On Fabric, this is just within your `config` directory. On 1.21.1+ this can be overridden per world by placing it in `world/serverconfig` like NeoForge.
 
 # Specification
 
